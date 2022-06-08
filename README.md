@@ -49,7 +49,7 @@
 <br>
 <h2 align="center"> Contribution Graph: </h2>
 
-[![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Subhan-Zaheer&theme=xcode)](https://github.com/Subhan-Zaheer)
+[![Subhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Subhan-Zaheer&theme=xcode)](https://github.com/Subhan-Zaheer)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
